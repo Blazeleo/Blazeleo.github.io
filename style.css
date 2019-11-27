@@ -1,11 +1,13 @@
   
 img {
   width: 200px;
+  height: 800px;
 }
 
 body {
   text-align: center;
-  font-family: "Arial";
-  background: #021897;
-  color: purple;
+ /* font-family: "Arial";
+  */
+  background: #FFFF33;
+  color: #bd7115;
 }
